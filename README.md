@@ -1,4 +1,4 @@
-#Instituto tecnológico de Costa Rica
+## Instituto tecnológico de Costa Rica
 ## Taller-Integrador-S1-2026
 **Professor:** Luis Carlos Rosales Alpizar
 
