@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=FULL_PCB.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=FULL_PCB.SchDoc|FileName=LEDs.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=FULL_PCB.SchDoc|FileName=OLED.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=FULL_PCB.SchDoc|FileName=POWER_SUPPLY.SchDoc|SheetNumber=1
