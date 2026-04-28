@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJMVBRLL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SIWA_PCB\Design Rule Check - PCB_SIWA.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

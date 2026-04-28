@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SIWA_RES Pin=U7-4
+Removed Pin From Net: NetName=SIWA_SA0 Pin=U7-5
+Removed Pin From Net: NetName=SIWA_SCL Pin=U8-4
+Removed Pin From Net: NetName=SIWA_SDA Pin=U8-5
+Added Pin To Net: NetName=SIWA_SA0 Pin=U7-4
+Added Pin To Net: NetName=SIWA_RES Pin=U7-5
+Added Pin To Net: NetName=SIWA_SDA Pin=U8-4
+Added Pin To Net: NetName=SIWA_SCL Pin=U8-5
+Added Member To Class: ClassName=FULL_PCB Member=Component R3 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R4 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R5 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R6 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R7 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R8 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R9 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component R10 FC0603E50R0BST1
+Added Member To Class: ClassName=FULL_PCB Member=Component SIWA_DOWN_CONECTOR PPTC081LFBN-RC
+Added Member To Class: ClassName=FULL_PCB Member=Component U8 TCA9406DCUR

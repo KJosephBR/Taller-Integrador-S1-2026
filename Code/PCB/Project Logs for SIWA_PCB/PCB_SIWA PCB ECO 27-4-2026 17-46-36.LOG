@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=FLASH_MEMORY_CONNECTOR NewDesignator=FLASH
+Added Member To Class: ClassName=FULL_PCB Member=Component C12 VJ0603Y104KXJAP
