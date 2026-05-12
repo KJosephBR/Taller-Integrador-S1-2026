@@ -4,9 +4,9 @@ C:\Users\David\Desktop\Taller-Integrador-S1-2026\Code\PCB\Project Outputs for SI
 ========================================================================================================================
 File Design Information:
 
-Date:       08/05/26
-Time:       11:34
-Revision:   f8b151e52eeb4652dbc111f2fe63746f589fcdd7
+Date:       11/05/26
+Time:       22:12
+Revision:   3c6b76443a0ac0e8c23968ee9a5e2e0f91c0d1d1
 Variant:    No variations
 Units used: mm
 

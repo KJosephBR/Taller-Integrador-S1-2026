@@ -2,8 +2,137 @@
 FileName = PCB_SIWA.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_SIWA.GPB
+Generating : Mechanical 20
+      File : PCB_SIWA.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB_SIWA.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D13
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB_SIWA.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB_SIWA.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D13
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PCB_SIWA.GM11
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : PCB_SIWA.GM6
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D13
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB_SIWA.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+    D14
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_SIWA.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D14
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_SIWA.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+    D14
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_SIWA.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D15
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_SIWA.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -11,20 +140,13 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D48
-    D49
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : PCB_SIWA.GPT
+Generating : Top Paste
+      File : PCB_SIWA.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -48,6 +170,20 @@ Used DCodes :
     D35
     D36
     D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_SIWA.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D40
     D41
     D42
@@ -55,30 +191,8 @@ Used DCodes :
     D44
     D45
     D46
+    D47
     D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB_SIWA.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
 *************************************************************
 
 *************************************************************
@@ -118,39 +232,33 @@ Used DCodes :
     D46
     D47
     D48
-    D49
-    D50
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : PCB_SIWA.GBS
+Generating : Top Overlay
+      File : PCB_SIWA.GTO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D48
-    D49
-    D50
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : PCB_SIWA.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : PCB_SIWA.GPT
 
     Adding Layer      : Top Layer
 
@@ -174,13 +282,20 @@ Used DCodes :
     D35
     D36
     D37
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB_SIWA.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : PCB_SIWA.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -188,109 +303,15 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PCB_SIWA.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D15
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : PCB_SIWA.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D13
-    D14
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : PCB_SIWA.GM3
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D14
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : PCB_SIWA.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D13
-    D14
-    D53
-    D54
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : PCB_SIWA.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D13
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Top Component Outline
-      File : PCB_SIWA.GM6
-
-    Adding Layer      : Top Component Outline
-
-
-Used DCodes :
-    D13
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB_SIWA.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D52
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 20
-      File : PCB_SIWA.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
-    D13
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
@@ -310,21 +331,10 @@ Used DCodes :
     D44
     D45
     D46
+    D47
     D48
     D49
     D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : PCB_SIWA.GM11
-
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
-    D13
 *************************************************************
 
 *************************************************************
@@ -361,23 +371,10 @@ Used DCodes :
     D44
     D45
     D46
+    D47
     D48
     D49
     D50
-    D51
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PCB_SIWA.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
-    D13
-    D59
 *************************************************************
 
 *************************************************************
@@ -391,7 +388,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D16
-    D60
+    D59
 *************************************************************
 
 *************************************************************
@@ -413,6 +410,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D61
+    D60
 *************************************************************
 
