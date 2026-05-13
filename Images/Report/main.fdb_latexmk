@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1778633121.2644 -1
   "./referencias.bib" 1778632827 934 8ffaf47784bef2c3baa29db606c808ec ""
   "C:/Users/Carlo/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1778632993 459 863fc359ba2dba32bf0e68b3f465d95b "pdflatex"
+  "main.aux" 1778633120 459 863fc359ba2dba32bf0e68b3f465d95b "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778632993.11129 "c:/Users/Carlo/OneDrive/Desktop/INTEGRADOR/Taller-Integrador-S1-2026/Images/Report/main.tex" "main.pdf" "main" 1778632994.36332 2
+["pdflatex"] 1778633119.92724 "c:/Users/Carlo/OneDrive/Desktop/INTEGRADOR/Taller-Integrador-S1-2026/Images/Report/main.tex" "main.pdf" "main" 1778633121.26525 2
   "C:/Users/Carlo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778632987 82684 3a87f55ef758bc5fe6abfed9a40cca26 ""
   "C:/Users/Carlo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1777421506 13333487 650ebd54cf887e0d72668d019086cc07 ""
   "C:/Users/Carlo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -80,11 +80,11 @@
   "C:/Users/Carlo/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1761901070 15651 9d7c62df82cb29a555c00550babfe364 ""
   "C:/Users/Carlo/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/Carlo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Carlo/OneDrive/Desktop/INTEGRADOR/Taller-Integrador-S1-2026/Images/Report/main.tex" 1778632976 1339 b8254c94518dafdfea804a677895e720 ""
+  "c:/Users/Carlo/OneDrive/Desktop/INTEGRADOR/Taller-Integrador-S1-2026/Images/Report/main.tex" 1778633117 1332 48dc1fe4c8940e51cd2e62c27f3647ef ""
   "introduccion.tex" 1778632827 53 6876e686037cdfd1458fc1918db60b80 ""
-  "main.aux" 1778632993 459 863fc359ba2dba32bf0e68b3f465d95b "pdflatex"
+  "main.aux" 1778633120 459 863fc359ba2dba32bf0e68b3f465d95b "pdflatex"
   "main.bbl" 1778632990 901 628a2a8c68e066122d1514411e0b8455 "bibtex main"
-  "main.tex" 1778632976 1339 b8254c94518dafdfea804a677895e720 ""
+  "main.tex" 1778633117 1332 48dc1fe4c8940e51cd2e62c27f3647ef ""
   "portada.tex" 1778632827 416 f4026ac59a2b3c41b4d6f87af455af73 ""
   (generated)
   "main.aux"
