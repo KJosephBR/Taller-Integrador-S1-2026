@@ -1,0 +1,112 @@
+\documentclass[conference]{IEEEtran}
+
+%==================== PAQUETES ====================
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{cite}
+\usepackage{url}
+
+%==================== INICIO ====================
+
+\begin{document}
+
+\title{Título del Documento}
+
+\author{
+\IEEEauthorblockN{Carlos Hurtado Villalobos}
+\IEEEauthorblockA{
+Tecnológico de Costa Rica\\
+Ingeniería Electrónica\\
+Correo: carlos20032910@gmail.com
+}
+}
+
+\maketitle
+
+%==================== RESUMEN ====================
+
+\begin{abstract}
+Este documento presenta una plantilla base en formato IEEE a doble columna para la elaboración de informes técnicos y académicos.
+\end{abstract}
+
+\begin{IEEEkeywords}
+IEEE, LaTeX, doble columna, reporte técnico.
+\end{IEEEkeywords}
+
+%==================== SECCIONES ====================
+
+\section{Introducción}
+
+Texto de introducción aquí.
+
+\section{Marco Teórico}
+
+Texto del marco teórico.
+
+\subsection{Ejemplo de ecuación}
+
+Ejemplo:
+
+\begin{equation}
+V = IR
+\end{equation}
+
+\section{Resultados}
+
+%==================== FIGURA ====================
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\columnwidth]{imagen.png}
+\caption{Ejemplo de figura.}
+\label{fig:ejemplo}
+\end{figure}
+
+%==================== TABLA ====================
+
+\begin{table}[H]
+\centering
+\caption{Ejemplo de tabla}
+\label{tab:ejemplo}
+\begin{tabular}{cc}
+\toprule
+Dato 1 & Dato 2 \\
+\midrule
+10 & 20 \\
+30 & 40 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Conclusiones}
+
+Conclusiones del trabajo.
+
+%==================== REFERENCIAS ====================
+
+\begin{thebibliography}{99}
+
+\bibitem{latex}
+L. Lamport,
+\textit{\LaTeX: A Document Preparation System}.
+Addison-Wesley, 1994.
+
+\bibitem{ieee}
+IEEE,
+``IEEE Conference Template,''
+[Online]. Available:
+https://www.ieee.org/
+
+\end{thebibliography}
+
+\end{document}
