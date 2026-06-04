@@ -1,0 +1,66 @@
+\documentclass[conference]{IEEEtran}
+
+% =========================
+% Paquetes principales
+% =========================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{url}
+\usepackage{amsmath, amssymb}
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+% =========================
+% Datos del documento
+% =========================
+\title{Título del Proyecto}
+
+\author{
+
+\IEEEauthorblockN{
+Carlos Hurtado Villalobos \\
+Kevin Berrocal \\
+José Dario Arias \\
+Pablo Vargas Muñoz
+}
+
+\IEEEauthorblockA{
+Tecnológico de Costa Rica \\
+Escuela de Ingeniería Electrónica \\
+carlosh@estudiantec.cr \\
+correo2@estudiantec.cr \\
+correo3@estudiantec.cr \\
+correo4@estudiantec.cr
+}
+
+}
+
+\begin{document}
+
+% =========================
+% Portada
+% =========================
+\input{portada}
+
+% =========================
+% Secciones del documento
+% =========================
+\input{introduccion}
+
+% Aquí puedes agregar más archivos después:
+ \input{marco_teorico}
+\input{metodologia}
+% \input{resultados}
+% \input{conclusiones}
+
+% =========================
+% Referencias
+% =========================
+\bibliographystyle{IEEEtran}
+\bibliography{referencias}
+
+\end{document}
